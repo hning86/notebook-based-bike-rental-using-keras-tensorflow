@@ -9,6 +9,14 @@ This project shows how to setup LSTM based network for estimating bike rental de
 - Once all the cells are executed, operationalize using the following commands
 
 
+### Prerequisites
+Make sure the following packages are installed in the environment where this notebook is being executed:
+
+  - tensorflow
+  - h5py
+  - Keras
+  - azure-ml-api-sdk
+
 
 ### Setup Environment ###
 
