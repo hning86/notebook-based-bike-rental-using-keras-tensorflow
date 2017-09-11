@@ -9,10 +9,9 @@
 name: project_environment
 dependencies:
   - python=3.5.2
-
+  - tensorflow
+  - Keras=2.0.8
+  - h5py=2.7.1
   - pip:
     - azure-ml-api-sdk
     - Pillow
-    - tensorflow
-    - keras
-    - h5py
